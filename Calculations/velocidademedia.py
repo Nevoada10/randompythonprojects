@@ -1,6 +1,6 @@
 # Defining the known values
-distance = 1500 # meters
-time = 60*3 + 26 # seconds
+distance = 100 # meters
+time = 0*(60**2) + 0*60 + 51.25 # seconds
 
 # Calculating the average speed in m/s
 average_speed_m_s = distance / time
